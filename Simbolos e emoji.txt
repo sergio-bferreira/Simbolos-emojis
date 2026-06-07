@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-bt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body{
+            background-color: rgb(203, 223, 223);
+            color: rgb(1, 18, 2);
+        }
+        h1 {
+            color: rgb(220, 20, 60);
+        }
+
+        /* */   /*Esse código serve para comentários no CSS */ 
+
+        /* Tudo o que fica dentro da tag <style> é configuração de CSS */
+
+    </style>
+
+    <title>Meu primeiro parágrafo</title>
+</head>
+<body>
+    <h1>Parágrafos e quebras de linhas</h1>
+    <hr>
+    <p>
+        Erga-se agora sobre a quilha <br>  <!-- br < breaking row - Quebra de linha-->
+        A brisa do oceano em seu rosto é fria <br>
+        Que nesse momento não lhe falte coragem <br>
+        Aqui termina sua vida selvagem <br>
+        Para aqueles que sorriem para a morte <br>
+        Os Deuses reservam a melhor sorte <br>
+        Com mulheres na vida você teve prazer <br>
+        Um dia todos devem morrer. 
+        <!--Isso é para comemntários / Para criar simbolos de tags < > na tela usamos os simbolos &lt; &gt; que significa LESS THAN / GREATER THAN - Maior que, menor que-->
+    </p>
+
+    <p>
+        Simbolo de tags &lt; &gt; Exemplo &lt;p&gt;
+
+    </p>
+    
+    <P>Vamos adicionar alguns simbolos especiais: <br>
+    &reg; <!-- simbolo de marca registrada -->
+    &copy; <!--simbolo de copyrigth -->
+    &trade; <!--Trade TM - marca registrada em inglês -->
+    </P>
+    <p>Meus emojis <br>
+    &#x1F60A; &#x2764; &#x1F525; <br>
+    &#x2764; &#x2764; &#x2764; &#x2764; &#x2764; &#x2764; &#x2764; &#x2764; &#x2764; &#x2764; &#x2764; &#x2764;
+
+    &#x1F60A; <!--😊 podemos copiar o emoji, mas às vezes ele não aparece no navegador, então é melhor copiar o código, mas podemos copiar o emoji para referencia no código-->
+
+    </p>
+    <script>
+     // window.alert ("Clique em OK para mostrar a mensagem") // OBS: Em JS o // serve para comentários ou para depuração dp código
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+-----------------------
+
+Conteudo da aula
+
+emojipedia
+
+
+----------------
+
+Direitos autorais
+
+Como pesquisar imagens e identificar as licenças comerciais
+
+
+Site para imagens
+
+unsplash
+
+pexels
+
+pixabay
+
