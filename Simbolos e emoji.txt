@@ -62,26 +62,21 @@
 
 
 
-
-
-
-
-
------------------------
+************************
 
 Conteudo da aula
 
-emojipedia
+Site do emojipedia
 
 
-----------------
+************************
 
 Direitos autorais
 
 Como pesquisar imagens e identificar as licenças comerciais
 
 
-Site para imagens
+Site para pesquisar imagens
 
 unsplash
 
